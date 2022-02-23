@@ -1,0 +1,14 @@
+.action-bar {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.action-bar .action-bar-btn {
+	border-radius: 0px !important;
+}
+
+.action-bar .action-bar-btn:nth-child(2) {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}

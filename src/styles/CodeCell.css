@@ -1,0 +1,8 @@
+.progress-cover {
+	height: 100%;
+	flex-grow: 1;
+	background-color: #0e101a;
+	display: flex;
+	align-items: center;
+	padding: 0 10%;
+}
