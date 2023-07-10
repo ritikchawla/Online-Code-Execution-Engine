@@ -1,8 +1,7 @@
-Scope: To rapidly Prototype Projects in the browser without going through the hassle of setting up a new development
-environment on their local machines.<br/>
-Developers are able to see instant results of their code without ever having to build or run.<br/>
-The engine is built in the browser itself, HTML and CSS layout prototyping can be leveraged via iFrames, thus speeding up the
-development process<br/>
+- Developed a secure and interoperable browser-based Code Execution engine using Web Assembly, TypeScript, Redux, and React.
+- Incorporated esbuild for efficient bundling, sandboxing, and iframes to enable seamless code sharing and enhance security.
+- Supports Python and Javascript, Instant Results of code are visible through a code watcher.
+
 <br/>
 Reseach Paper: https://github.com/ritikchawla/Online-Code-Execution-Engine/blob/main/Ressearch%20Paper%20Published.pdf<br/>
 Project Report: https://github.com/ritikchawla/Online-Code-Execution-Engine/blob/main/Ressearch%20Paper%20Published.pdf<br/>
