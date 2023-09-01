@@ -1,6 +1,6 @@
 ## Online Code Execution Engine
 
--[] Developed a secure and interoperable browser-based Code Execution engine using Web Assembly, TypeScript, Redux, and React.
+- [X] Developed a secure and interoperable browser-based Code Execution engine using Web Assembly, TypeScript, Redux, and React.
 - Incorporated esbuild for efficient bundling, sandboxing, and iframes to enable seamless code sharing and enhance security.
 - Supports Python and Javascript, Instant Results of code are visible through a code watcher.
 
